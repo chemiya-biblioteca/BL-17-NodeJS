@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "0.0.1",
+  "description": "mi primer proyecto",
+  "main": "app.js",
+  "scripts": {
+    "ejecutar": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "node"
+  ],
+  "author": "chema",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
